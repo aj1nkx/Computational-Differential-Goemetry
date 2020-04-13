@@ -5,3 +5,4 @@ surface_laplacian_sample_code/
 data/
 __pycache__/
 *~
+.ipynb_checkpoints
