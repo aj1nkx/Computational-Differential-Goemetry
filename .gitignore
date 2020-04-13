@@ -1,0 +1,7 @@
+curves_texture_mapping_code_data/
+harmonic_mapping_code/
+images/
+surface_laplacian_sample_code/
+data/
+__pycache__/
+*~
